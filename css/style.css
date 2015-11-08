@@ -1,0 +1,5 @@
+.container{color: green;}
+.col-xs-12{border: 2px solid #bebe54;box-shadow: 2px 1px 5px gray;border-radius: 5px; background: yellow;}
+.col-xs-4:hover{box-shadow: 2px 1px 5px blue;border-radius: 5px;}
+
+.col-sm-3{background: skyblue;border: 2px solid red;}
